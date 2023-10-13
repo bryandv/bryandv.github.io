@@ -1,0 +1,1 @@
+(self.webpackChunk_bryandv_tbn_library=self.webpackChunk_bryandv_tbn_library||[]).push([[531],{"./src/components/TabaknatieButton/styles.tsx":(__unused_webpack_module,exports)=>{Object.defineProperty(exports,"__esModule",{value:!0}),exports.buttonStyles=void 0;exports.buttonStyles={height:100,width:100,borderRadius:55}}}]);
